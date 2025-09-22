@@ -8,3 +8,6 @@ This challenge will require you to execute the `/challenge/run` program from a
 command used: 
 `cd /etc`
 `/challenge/run`
+
+After running `/challenge/run` , it asked me to run the command from `/etc` directory. 
+By using the above commands, I managed to get the flag. 

@@ -8,3 +8,7 @@ Let's try it here! You'll need to run `/challenge/run` using a relative path w
 command used: 
 `cd /`
 `challenge/run`
+
+Changed my directory to the root directory as per given in the challenge. 
+By using common sense, I guessed my relative file path would be `challenge/run` . 
+

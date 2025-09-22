@@ -8,3 +8,5 @@ Of course, if your current working directory is `/`, the above relative paths a
 command used: 
 `cd /`
 `./challenge/run`
+
+Changed to the root directory and ran `./challenge/run` the `./` selects the current working directory. That gave me the flag. 
