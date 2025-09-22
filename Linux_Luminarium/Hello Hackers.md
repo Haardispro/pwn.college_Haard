@@ -6,6 +6,7 @@ In this level, invoke `hello` command to get the flag.
 **Flag:** `pwn.college{40hKwtvXBc6p0VMjwmfFbTVor91.QX3YjM1wyNwkzNyEzW}`
 
 command used: `hello`
+
 Typed in hello in the terminal to get the flag. 
 
 ### Intro to arguments: 
@@ -16,6 +17,7 @@ In this challenge, to get the flag, you must run the `hello` command with a sing
 **Flag:** `pwn.college{s4f66kcHDN5FZex1Y1UBJMMyAh_.QX4YjM1wyNwkzNyEzW}`
 
 command used: `hello hackers`
+
 Typed in `hello` followed by `hackers` as an argument to get the flag.
 
 ### Command history:
