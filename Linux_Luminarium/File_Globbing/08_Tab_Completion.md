@@ -4,6 +4,6 @@ This challenge has copied the flag into `/challenge/pwncollege`, and you can fr
 
 flag: `pwn.college{MkU0bYg9ImyUkcFTIQU7PVz5XwB.0FN0EzNxwyNwkzNyEzW}`
 
-Command used: `/challenge/pwn<tab>`
+Command used: `cat /challenge/pwn<tab>`
 
 `<tab>` autocompletes incomplete command passed in the shell. On passing the above mentioned command and pressing tab, I got the flag. 
