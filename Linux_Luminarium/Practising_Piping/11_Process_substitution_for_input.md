@@ -4,7 +4,15 @@ Now for your challenge! Recall what you learned in the `diff` challenge from 
 
 Use process substitution with `diff` to compare the outputs of these two programs and find your flag!
 
+**flag:** `pwn.college{UBAXiuf0WozDaZBvlS1XG4UTfqF.0lNwMDOxwyNwkzNyEzW}`
+
 Command used: 
 `diff <(/challenge/print_decoys_and_flag) <(/challenge/print_decoys)`
 
-flag: `pwn.college{UBAXiuf0WozDaZBvlS1XG4UTfqF.0lNwMDOxwyNwkzNyEzW}`
+I needed to find the difference between two programs output. I used process substitution with `diff` to compare them without making files. `diff` showed the extra line, which was the flag.
+
+#### What I learnt: 
+I learnt about process substitution `<(command)`. Its a way to use a command output like a file. This is useful for commands like `diff` that need file inputs. 
+
+
+
