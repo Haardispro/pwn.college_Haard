@@ -12,6 +12,7 @@ I made a file x.sh which looks something like this:
 
 x.sh: 
 ```bash
+#!/bin/bash
 /challenge/solve
 ```
 
