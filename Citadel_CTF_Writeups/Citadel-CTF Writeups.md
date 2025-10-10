@@ -54,7 +54,7 @@ A clear chime rolls through the chamber and a new crest ignites on your badge â€
 Near the gate to the next floor you come across a CAPTCHA verification test, but it has been covered by scratches on the decaying wall and misleading letters stopping you from finding the correct key, all to prove youâ€™re human.
 
 ### Solve: 
-![[Pasted image 20251010213716.jpg]]
+![BRATCHA.jpg](pwn.college_haard/Citadel_CTF_Writeups/BRATCHA.jpg)
 
 The following image was provided in order to unlock a pastebin link which contained the flag.
 What we can clearly observe is the overlapped letters: `c/s g/q x/y h/n x/v B/D h/n S/Z`
