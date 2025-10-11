@@ -8,6 +8,8 @@ This challenge forces you to fill the disk and then clean up. The process:
 4. Run `/challenge/check` a second time. If it can now create the temporary file (i.e., you successfully cleaned up your home directory), you’ll receive the flag.
 
 
+**flag:** `pwn.college{QjxVGMeu80hmT4E9eC5wqqFRRT-.0lMyEzNxwyNwkzNyEzW}`
+
 Commands I used: 
 1. `touch big_file.txt` -> Made a file that will contain a lot of data
 2. `yes > big_file.txt` -> piped output of yes to the big file 
@@ -15,4 +17,3 @@ Commands I used:
 4. `rm big_file.txt` -> Cleaned up disk 
 5. `/challenge/check` -> Checks if the big file is removed, then it spits out the flag. 
 
-flag: `pwn.college{QjxVGMeu80hmT4E9eC5wqqFRRT-.0lMyEzNxwyNwkzNyEzW}`

