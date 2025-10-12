@@ -99,9 +99,11 @@ Password
 
 ### Level 5 -> Level 6
 
+Searched all the folders which started with `maybehere` which contained 
+
 Command Used:
 ```bash
-find ./maybehere0*/ -size 1033c
+find ./maybehere*/ -size 1033c
 ```
 
 Password 
