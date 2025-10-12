@@ -201,3 +201,15 @@ Password:
 ```text
 FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```
+
+### Level 13 -> Level 14 
+
+A SSH private key can be used to log in to a ssh server 
+
+Command used: 
+```
+ssh -i sshkey.private bandit.labs.overthewire.org -p 2220
+```
+
+### Level 14 -> Level 15
+
